@@ -6,7 +6,7 @@ This project helps researchers, developers, and anyone interested to understand 
 <br />
 <br />
 
-#Dataset:
+# Dataset:
 The dataset used in this project is hosted on Hugging Face and is available at the link below:
 
 <a href="https://huggingface.co/datasets/Hello-SimpleAI/HC3" target="_blank">HC3 Dataset</a>: A comprehensive dataset designed for tasks involving AI-generated text detection.
