@@ -1,7 +1,7 @@
 # GenAI Content Detection: Workshop on Detecting AI-Generated Content
 
 # Overview
-In this repository, we provide a solution to detect AI-generated text using BERT and XGBoost, two powerful models in natural language processing and machine learning. 
+In this repository, we provide a solution to detect AI-generated text using XGBoost, Albert and Distilbert, three powerful models in natural language processing and machine learning. 
 This project helps researchers, developers, and anyone interested to understand and address the challenges of identifying AI-generated content from human-written text.
 <br />
 <br />
@@ -20,12 +20,13 @@ The dataset used in this project is hosted on Hugging Face and is available at t
 
 # Performance comparison between XGBoost and BERT.
 
-| Metric      | XGBoost  | BERT    |
-|-------------|----------|---------|
-| Accuracy    | 0.95086  | 0.XX    |
-| Precision   | 0.95091  | 0.XX    |
-| Recall      | 0.95083  | 0.XX    |
-| F1 Score    | 0.95086  | 0.XX    |
+| Metric      | XGBoost  | DistilBERT | ALBERT   |
+|-------------|----------|------------|----------|
+| Accuracy    | 0.95086  | 0.5046     | 0.5034   |
+| Precision   | 0.95091  | 0.5646     | 0.4929   |
+| Recall      | 0.95083  | 0.5083     | 0.5077   |
+| F1 Score    | 0.95086  | 0.3415     | 0.3585   |
+
 
 
 
